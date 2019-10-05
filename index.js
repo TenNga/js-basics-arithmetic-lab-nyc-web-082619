@@ -5,4 +5,4 @@ let multiply = var1 * var2;
 
 let random = Math.random()
 
-let mod = 6 % 10;
+let mod = 10 % 6;
